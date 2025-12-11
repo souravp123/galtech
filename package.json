@@ -1,7 +1,7 @@
 {
+  "homepage": "https://souravp123.github.io/galtech",
   "name": "galtech",
   "version": "0.1.0",
-  "homepage": "https://souravp123.github.io/galtech",
   "private": true,
   "dependencies": {
     "@fontsource/roboto": "^5.2.8",
