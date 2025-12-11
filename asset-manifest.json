@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/galtech/static/css/main.da3825ae.css",
+    "main.js": "/galtech/static/js/main.985659d5.js",
+    "static/js/453.857d683d.chunk.js": "/galtech/static/js/453.857d683d.chunk.js",
+    "static/media/Placement Area 2.png": "/galtech/static/media/Placement Area 2.054921edf4083083d1e3.png",
+    "static/media/Mask Group 26.png": "/galtech/static/media/Mask Group 26.961cc443edca44df4da1.png",
+    "static/media/Placement Area 1.png": "/galtech/static/media/Placement Area 1.5e96d4072813fa2f902b.png",
+    "static/media/Placement Area-1.png": "/galtech/static/media/Placement Area-1.4c88189fc2468d01829b.png",
+    "static/media/Placement Area.png": "/galtech/static/media/Placement Area.0e5f46506cba5dc84c33.png",
+    "static/media/Placement Area-2.png": "/galtech/static/media/Placement Area-2.6c6bd4ab2a0d6c5e9ad4.png",
+    "static/media/Untitled-1.png": "/galtech/static/media/Untitled-1.9c522c6b9376284ca684.png",
+    "static/media/Mask Group 4.png": "/galtech/static/media/Mask Group 4.4a84f63efe40d09dfcd6.png",
+    "static/media/Placement Area-3.png": "/galtech/static/media/Placement Area-3.0c16590be57f9d62aa9e.png",
+    "static/media/Placement Area 3.png": "/galtech/static/media/Placement Area 3.5d21afce970d13f2c14b.png",
+    "static/media/Placement Area-4.png": "/galtech/static/media/Placement Area-4.80153a8ed054f2fb0ae1.png",
+    "static/media/Placement Area 4.png": "/galtech/static/media/Placement Area 4.30932b5be2e45abdfc7d.png",
+    "static/media/Placement Area 5.png": "/galtech/static/media/Placement Area 5.6a1ee80dd8907aa57454.png",
+    "static/media/Placement Area-5.png": "/galtech/static/media/Placement Area-5.e0a5f687bf80389cedb6.png",
+    "static/media/Image 6.png": "/galtech/static/media/Image 6.f489caff14a5869e31a7.png",
+    "static/media/Group 833.png": "/galtech/static/media/Group 833.fbb2e77714b67726038a.png",
+    "static/media/Group 836.png": "/galtech/static/media/Group 836.9221182826b8ee5c32c1.png",
+    "static/media/fa-solid-900.woff2": "/galtech/static/media/fa-solid-900.8ae0d37556ff1e685de2.woff2",
+    "static/media/Group 838.png": "/galtech/static/media/Group 838.55ff46dffbd40cde9a6f.png",
+    "static/media/fa-brands-400.woff2": "/galtech/static/media/fa-brands-400.1c5c7716b05754cb4eab.woff2",
+    "static/media/Group 837.png": "/galtech/static/media/Group 837.35a231310c20b1dd8b70.png",
+    "static/media/Group 835.png": "/galtech/static/media/Group 835.cf3ec64ff5a5f0620c1a.png",
+    "static/media/fa-regular-400.woff2": "/galtech/static/media/fa-regular-400.6f05ca9ab7b5345dbc07.woff2",
+    "static/media/fa-v4compatibility.woff2": "/galtech/static/media/fa-v4compatibility.e4340c52a50e727c6afa.woff2",
+    "index.html": "/galtech/index.html",
+    "main.da3825ae.css.map": "/galtech/static/css/main.da3825ae.css.map",
+    "main.985659d5.js.map": "/galtech/static/js/main.985659d5.js.map",
+    "453.857d683d.chunk.js.map": "/galtech/static/js/453.857d683d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3825ae.css",
+    "static/js/main.985659d5.js"
+  ]
+}
