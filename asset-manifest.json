@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/galtech/static/css/main.da3825ae.css",
-    "main.js": "/galtech/static/js/main.985659d5.js",
-    "static/js/453.857d683d.chunk.js": "/galtech/static/js/453.857d683d.chunk.js",
+    "main.js": "/galtech/static/js/main.b3dd1bd4.js",
+    "static/js/453.ce6488d0.chunk.js": "/galtech/static/js/453.ce6488d0.chunk.js",
     "static/media/Placement Area 2.png": "/galtech/static/media/Placement Area 2.054921edf4083083d1e3.png",
     "static/media/Mask Group 26.png": "/galtech/static/media/Mask Group 26.961cc443edca44df4da1.png",
     "static/media/Placement Area 1.png": "/galtech/static/media/Placement Area 1.5e96d4072813fa2f902b.png",
@@ -29,11 +29,11 @@
     "static/media/fa-v4compatibility.woff2": "/galtech/static/media/fa-v4compatibility.e4340c52a50e727c6afa.woff2",
     "index.html": "/galtech/index.html",
     "main.da3825ae.css.map": "/galtech/static/css/main.da3825ae.css.map",
-    "main.985659d5.js.map": "/galtech/static/js/main.985659d5.js.map",
-    "453.857d683d.chunk.js.map": "/galtech/static/js/453.857d683d.chunk.js.map"
+    "main.b3dd1bd4.js.map": "/galtech/static/js/main.b3dd1bd4.js.map",
+    "453.ce6488d0.chunk.js.map": "/galtech/static/js/453.ce6488d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da3825ae.css",
-    "static/js/main.985659d5.js"
+    "static/js/main.b3dd1bd4.js"
   ]
 }
