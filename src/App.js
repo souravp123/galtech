@@ -7,7 +7,7 @@ import Home from './pages/Home';
 function App() {
   return (
     <>
-      <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <BrowserRouter basename="galtech">
         <Routes>
           <Route path='/' element={<Home/>}/>
         </Routes>
