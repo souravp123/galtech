@@ -8,7 +8,7 @@ import MainBanner from './components/MainBanner';
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/galtech">
         <Routes>
           <Route path='/' element={<Home/>}/>
         </Routes>
