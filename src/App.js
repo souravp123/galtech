@@ -1,18 +1,17 @@
 import './App.css';
-import { HashRouter as BrowserRouter, Router, Route, Routes} from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
 
 
 
 function App() {
   return (
-    <>
-      <BrowserRouter basename="galtech">
-        <Routes>
-          <Route path='/' element={<Home/>}/>
-        </Routes>
-      </BrowserRouter>
-    </>
+
+    <Router basename={process.env.PUBLIC_URL}>
+      <Routes>
+        <Route path="/" element={<Home />} />
+      </Routes>
+    </Router>
   
 
   );
